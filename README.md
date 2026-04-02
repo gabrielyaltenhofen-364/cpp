@@ -1,7 +1,7 @@
 # Getting started with C++
 
 This repository was created for students interested in learning and working with C++. Below are the steps to execute the C++ program:
-
+GABRIELY MOURA ALTENHOFEN-580034
 ## 1. Clone the repository
 ````
   $ git clone https://github.com/jstoquica/getting-started-with-cpp.git
